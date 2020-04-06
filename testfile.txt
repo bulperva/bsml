@@ -1,0 +1,8 @@
+Hello WorldThis is our new text fileand this is another line.Why? Because we can.
+If you want to read a file line by line – as opposed to pulling the content of the entire file at once – then you use the readline() function. 
+
+Why would you use something like this? 
+
+Let’s say you only want to see the first line of the file – or the third. You would execute the readline() function as many times as possible to get the data you were looking for. 
+
+Each time you run the method, it will return a string of characters that contains a single line of information from the file.
